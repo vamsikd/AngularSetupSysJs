@@ -1,0 +1,23 @@
+{
+  "name": "angularsetup-sysjs",
+  "version": "1.0.0",
+  "description": "Angular 2 startup template with systemjs",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamsikd/AngularSetupSysJs.git"
+  },
+  "keywords": [
+    "Angular",
+    "SystemJs"
+  ],
+  "author": "Vvmsi.d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamsikd/AngularSetupSysJs/issues"
+  },
+  "homepage": "https://github.com/vamsikd/AngularSetupSysJs#readme"
+}
